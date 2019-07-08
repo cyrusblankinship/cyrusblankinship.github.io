@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cyrus Blankinship</title>
+    <link>https://cyrusblankinship.github.io/project/</link>
+    <description>Recent content in Projects on Cyrus Blankinship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 13:59:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://cyrusblankinship.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boiler defects prediction</title>
+      <link>https://cyrusblankinship.github.io/project/nyc-boiler-defects/</link>
+      <pubDate>Sun, 02 Jun 2019 11:23:35 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/nyc-boiler-defects/</guid>
+      <description>Application of different machine learning models to identify and predict boiler defects in NYC</description>
+    </item>
+    
+    <item>
+      <title>NYC Commercial Real Estate Explorer</title>
+      <link>https://cyrusblankinship.github.io/project/nyc-3d-real-estate/</link>
+      <pubDate>Sun, 02 Jun 2019 11:23:35 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/nyc-3d-real-estate/</guid>
+      <description>A web-based application for real estate professionals to query tenant, lease, and building information across the entire NYC market.</description>
+    </item>
+    
+    <item>
+      <title>NYC Energy &amp; Water Performance App</title>
+      <link>https://cyrusblankinship.github.io/project/energy-benchmarking/</link>
+      <pubDate>Sun, 02 Jun 2019 11:23:35 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/energy-benchmarking/</guid>
+      <description>Covering six years of data, the NYC Energy &amp;amp; Water Performance Map provides an interactive data analysis and query platform to better understand the energy and water efficiency of more than 20,000 of the largest buildings across New York’s five boroughs.</description>
+    </item>
+    
+    <item>
+      <title>Studying drug abuse with twitter</title>
+      <link>https://cyrusblankinship.github.io/project/spark-drug-tweets/</link>
+      <pubDate>Sun, 02 Jun 2019 10:53:08 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/spark-drug-tweets/</guid>
+      <description>A Spark application to identify the spatial distribution of drug abuse related tweets in major US cities</description>
+    </item>
+    
+    <item>
+      <title>Job access effect on housing prices</title>
+      <link>https://cyrusblankinship.github.io/project/nyc-housing-price-jobs/</link>
+      <pubDate>Sun, 02 Jun 2019 11:33:04 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/nyc-housing-price-jobs/</guid>
+      <description>Estimating housing price change in NYC based on expected new jobs in office developments</description>
+    </item>
+    
+    <item>
+      <title>Environment effect on school performance</title>
+      <link>https://cyrusblankinship.github.io/project/pui-final/</link>
+      <pubDate>Sun, 02 Jun 2019 13:59:49 -0400</pubDate>
+      
+      <guid>https://cyrusblankinship.github.io/project/pui-final/</guid>
+      <description>Modeling school performance of NYC students as a function of crime, drugs, and living conditions</description>
+    </item>
+    
+  </channel>
+</rss>
